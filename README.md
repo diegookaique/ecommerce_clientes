@@ -29,11 +29,11 @@ Até o momento, as principais descobertas incluem a capacidade de:
 
 # 🛠️ Stack Tecnológico
 
-*   **Ferramenta Principal:** Google Colab
+*   **Ferramenta Principal:** Google Colab, Looker Studio
 *   **Linguagens de Análise:** Python, SQL (SQLite)
 *   **Bibliotecas:** pandas, sqlite3
 *   **Fontes de Dados:** Arquivos CSV (`TB_TRANSACOES_PROJETO_ECOMM.csv`, `TB_CLIENTES_PROJETO_ECOMM.csv`)
-*   **Saída:** Arquivo CSV consolidado (`dados_ecommerce_final.csv`)
+*   **Saída:** Arquivo CSV consolidado (`dados_ecommerce_final.csv`), Dashboard Looker Studio
 
 ---
 
